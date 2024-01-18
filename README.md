@@ -1,6 +1,6 @@
 # Starwars API
 
-This is an API which allow you to access a source of data containing the info from the Star Wars universe. I've used <a href="https://swapi.py4e.com/">SWAPI's</a> data source to create this API.
+This is an API which allow you to access a source of data containing the info from the Star Wars universe. I've used <a href="https://swapi.py4e.com/">SWAPI's</a> database to create this API.
 
 ### Click this [link](https://ulascanonder.github.io/Starwars-API/) to see the website.
 
